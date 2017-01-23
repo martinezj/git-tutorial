@@ -1,2 +1,4 @@
-Hello World!
-This is a second line in the file.
+<p>
+<li>Hello World!</li>
+<li>This is a second line in the file.</li>
+</p>
